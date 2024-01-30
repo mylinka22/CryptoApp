@@ -1,0 +1,15 @@
+<!-- res/drawable/rounded_edittext_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <solid android:color="#232436" /> <!-- Цвет фона -->
+
+    <corners android:radius="12dp" /> <!-- Радиус скругления углов в dp -->
+
+    <padding
+        android:left="10dp"
+        android:top="10dp"
+        android:right="10dp"
+        android:bottom="10dp" /> <!-- Отступы в dp, если нужны -->
+
+</shape>
