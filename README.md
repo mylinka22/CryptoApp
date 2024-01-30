@@ -3,6 +3,7 @@
 ## Описание проекта
 
 Простое мобильное приложение для отслеживания портфеля криптовалют.
+![alt text](https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fpeacemessengers.info%2Fblog%2Fwp-content%2Fuploads%2F2021%2F11%2F%25D1%2580%25D1%258B%25D0%25B1%25D0%25B0.jpg&lr=21621&pos=0&rpt=simage&text=рыба)
 
 ## Основные функции
 
